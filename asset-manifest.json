@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Abhi-Counter/static/css/main.dc3f8e47.css",
+    "main.js": "/Abhi-Counter/static/js/main.64bf0bee.js",
+    "index.html": "/Abhi-Counter/index.html",
+    "main.dc3f8e47.css.map": "/Abhi-Counter/static/css/main.dc3f8e47.css.map",
+    "main.64bf0bee.js.map": "/Abhi-Counter/static/js/main.64bf0bee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc3f8e47.css",
+    "static/js/main.64bf0bee.js"
+  ]
+}
